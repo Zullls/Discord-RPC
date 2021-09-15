@@ -1,5 +1,8 @@
 # Russian
 
+Будет так
+![ru](https://i.imgur.com/NBdQ2Rl.png)
+
 Создаём тут applications!
 ![ru](https://i.imgur.com/YCCLRmc.png)
 
@@ -18,6 +21,9 @@ node app.js
 ```
 
 # English
+
+It will be like this
+![ru](https://i.imgur.com/NBdQ2Rl.png)
 
 Create applications here!
 ![ru](https://i.imgur.com/YCCLRmc.png)
